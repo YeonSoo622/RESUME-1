@@ -5,293 +5,176 @@
 ![status](https://img.shields.io/badge/offer_welcome-brightgreen.svg)
 
 ## 소개
-![프로필이미지](https://github.com/JSpiner/RESUME/raw/master/images/profile.jpeg)
-- 이름: 정성민
-- 군필여부: 병역특례로 복무완료
-- 취미: 자전거, **해커톤**, 칵테일, 사격, 등산, **카페코딩**, 피아노, 달리기, 여행, 캠핑
-- Email: jspiner@naver.com
-- GitHub: [github.com/jspiner](https://github.com/jspiner)
-- LinkedIn: [linkedin.com/in/jspiner](https://linkedin.com/in/jspiner)
+![프로필용](https://user-images.githubusercontent.com/113766590/190851982-5a393da7-5301-460f-bd8d-3e049e891a27.jpg)
+<h1>반갑습니다. 장연수입니다.</h1>
+>안녕하세요, 반도체/디스플레이 분야로의 진출을 준비하고 있는 장연수 입니다.  
+반도체 공정기술/설계 분야에서 근무하기 위하여, 교내외의 교육을 통하여 반도체 8대 공정 및 DRAM / Nand-Flash 등의 반도체 소자 등의 구성 및 동작을 이해하고 있으며 공정 상의 데이터를 처리하기 위한 빅데이터 처리 능력 및 Tcad / 스파이스류 Tool 활용 능력을 보유하고 있습니다. 또한 블로그를 통해 반도체 산업의 동향 및 이슈 등을 정리하여 포스팅하고 있습니다.  
+디스플레이 Panel 설계 분야에서 근무하기 위하여, 교내외의 교육을 통하여 LCD, OLED, Quantum Dot, MicroLED 광학 및 구동회로, 재료 등의 베이스 지식을 이해하고 있으며, 특히 a-si/p-si/Oxide 기반의 TFT 및 이를 활용한 Backplane 분야를 중점적으로 학습하여 Panel 설계 분야 역량을 함양하였습니다. 
 
+전반적으로 전자회로 및 반도체 내에서의 물리적인 동작을 이해하고 있기 때문에, 회로 내의 Parameter 및 Component 변경 시의 상황 대처에 어려움이 없습니다.  
+팀원과의 협업과 소통을 중시하며, 조직 문화를 존중하고 녹아들 줄 아는 친화성을 가졌습니다.  
+앞으로 맡을 직무에서의 역량을 강화하기 위해 더 많은 노력을 하고 있습니다.
+
+- Email: dustn4889@gmail.com
+- GitHub: [github.com/YeonSoo622](https://github.com/YeonSoo622)
+- Naver Blog : https://blog.naver.com/dustn2215
 ```
-엔지니어로 살아가면서, 올바름을 추구하는걸 가장 큰 가치로 여기고 있습니다.
+하이테크 분야의 엔지니어로서, 자신이 하는 일을 명확히 이해하는 것이 기본 소양이라고 생각합니다.  
+이를 위해 제 위치에서 할 수 있는 최선을 다 하는 중입니다.
 ```
 
-![깃허브](https://github.com/JSpiner/RESUME/raw/master/images/github.png)
-
-## Enginnering Ladders
-[Engineering Ladders](https://medium.com/@ryanparkdev/engineering-ladders%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%84%B1%EC%9E%A5%EB%B0%A9%ED%96%A5-%EC%B0%BE%EA%B8%B0-c52112b5c34f)로 표현해본 제 스킬은 이렇습니다.
-
-<img src = "https://github.com/JSpiner/RESUME/raw/master/images/engineering_ladders.png" width="480" />
-
-## 회사경력
-- [카카오 모빌리티](https://www.kakaomobility.com/) (2021 ~ 현재)
-- [스타일쉐어](https://stylesha.re) (2020 ~ 2021)
-- [리디주식회사](https://www.ridicorp.com/)(2018 ~ 2020)
-- [피알앤디컴퍼니](http://prnd.co.kr)(2017 ~ 2018) 
-- 프리랜서(2014 ~ 2016)
-
-## 단체경력
-- 네이버 부스트캠프 코드 리뷰어(2021)
-- Mashup 개발동아리(2017 ~ 2018)
-- 소프트웨어 마에스트로 7기(2016 ~ 2017)
-- 차세대보안리더 BoB 4기(2015)
-- 삼성소프트웨어멤버십 주니어 1기(2014)
 
 ## 학력
-- 세종대학교 컴퓨터공학과 3학년 휴학(2015 입학)
-- 한국디지털미디어고등학교 해킹방어과 졸업(2012 ~ 2014)
+- 광운대학교 전기공학과 졸업(2018 ~ 2024)
+- 서울동성고등학교 졸업(2015 ~ 2018)
+- 동국대학교사범대학부속중학교 졸업(2012 ~ 2015)
+- 서울장평초등학교 졸업 (2006 ~ 2012)
 
-## 사용 기술
-### Android
-요구사항 구현을 넘어 프로젝트 개선 및 기술적인 도전을 해볼 수 있을 정도의 안드로이드 스킬을 가지고 있습니다.
-- Kotlin, Kotlin DSL
-- DI : Dagger / Koin
-- Stream : rxJava / coroutine
-- View : Compose, Epoxy, Databinding
-- Architecture : MVI, MVVM, MVP
-- lint + test code
+## 학점 
+- 전공 평점 : 4.19/4.5
+- 전체 평점 : 4.02/4.5
 
-### Backend
-클라이언트에 필요한 기술을 테스트하고 검증할 수 있을 정도의 서버 구현 스킬을 가지고 있습니다.
-- python - flask/gunicorn
-- nodejs
-- celery 
-- rabbitmq / messageQ / redis
-- docker 
-- selenium
+## 어학성적
+- OPIc : IH(Intermediate High) 
+(유효 기간: 22.08.31 ~ 24.08.30)
 
-### Frontend
-주변 도움을 받으면 간단한 프로토타입을 만들 수 있을 정도의 스킬을 가지고 있습니다.
-- React
+## 단체경력
+- 서울동행 봉사동아리 (2018)
+- 교내 드로잉 동아리 팔레트온 (2021)
+- 교내 반도체 동아리 SELA (2022)
 
-그 외 흔히 채용공고에 나오는 이런 '자격요건'들을 경험 해봤습니다.
-- 팀 : 기능조직 / 목적조직 / 스쿼드
-- 배포 : 정기배포(1주) / 배포자동화 / 단계적배포
-- 실험 : AB 테스팅 / deeplink / referrer / Firebase
-- 모니터링 : Fabric / Google Analytics / Firebase Analytics
-- 커뮤니케이션 : Slack
-- 이슈관리 : Github / Jira / Trello / Asana
-- CI/CD : TravisCI / Coveralls / Jenkins / SonarQube / Actions
-- 디자인 협업 : Zeplin / Figma
-- 버전관리 : Git / GitFlow
+## 사회경험
+- 서울동성고등학교 고등학생 대상 영어교육 및 진로상담 (18.08.06 ~ 18.08.20)
+- 짝태패밀리 서울숲점 홀/서빙 (18.09.05 ~ 19.01.27)
+- 서울동성고등학교 고등학생 대상 모의고사 학습조교 (19.01.07 ~ 19.02.04)
+- 수도방위사령부 제55경비단 병장 만기전역 (19.04.09 ~ 20.11.07)
+- 서울동성고등학교 고등학생 대상 모의고사 학습조교 (21.01.04 ~ 21.02.05)
+
+## 직무 역량
+### 디스플레이 (Panel설계) / 반도체 공정기술
+- TFT 소자 공정을 위한 일련의 경험으로, 스핀코터와 PEDOT:PSS, Pentacine 등으로 Thin film을 제작해보았습니다.
+>해당 과정에서 공정 내의 Recipe 및 Parameter를 변경하면서 uniformly coating 되는 최적의 조건을 탐구하였습니다.
+- 
+### 교육 이수 List
+반도체 공정 / 설계에 필요한 역량을 쌓기 위해, 교내 교육뿐만 아니라 외부 교육도 참가하며 직무 역량을 함양하였습니다.
+
+- 반도체 공정 기초 (21.08.15 ~ 21.09.14) / 교육기관 : 한국기술교육대학교 온라인평생교육원   
+>반도체 8대 공정과 소자의 기초
+![e-koreatech 반도체 공정기초](https://user-images.githubusercontent.com/113766590/190854770-41203452-beaf-425b-878c-db9e17b0827d.JPG)
+
+
+- KiCad을 이용한 도면, PCB 설계 (21.12.29 ~ 21.12.30) / 교육기관 : IDEC(반도체설계교육센터)  
+>무료 캐드인 KiCad을 이용하여 실무에 이용할 수 있는 도면 제작 및 PCB 설계 기술 습득
+![IDEC 키캐드](https://user-images.githubusercontent.com/113766590/190854630-271ed1ba-0544-463d-bc77-10f51287c6d2.JPG)
+
+- e-모빌리티를 위한 DSP 활용 기초 교육 (22.01.03 ~ 22.01.21) / 교육기관 : 광운대학교 미래에너지기술연구소  
+>DSP TMS320F28335를 이용하여 PWM 생성 및 전동기의 구동, 전기자동차의 구조 및 인터럽트 처리 방법 등을 학습
+
+- 임베디드 프로세서 구조의 이해 (22.01.12 ~ 22.01.12) / 교육기관: IDEC(반도체설계교육센터)  
+>임베디드 프로세서의 기본 구조를 이해하고, 이를 설계하는 과정에서 고려해야 하는 최적화 기법들을 습득
+디지털 논리회로 복습, ISA 및 pipelined 구조 이해, 메모리 시스템 이해
+![IDEC 임베디드](https://user-images.githubusercontent.com/113766590/190854633-91142f14-edd7-4786-95b6-7607b4bce85f.JPG)
+
+- 2022학년도 전력전자학회 동계세미나 (22.02.17) / 교육기관 : 전력전자학회  
+>전력용반도체, AI기반 전력변환장치 등
+![전력전자 동계](https://user-images.githubusercontent.com/113766590/190854635-db941dfc-04c3-4377-a9c1-fec424fbcee7.JPG)
+
+- 반도체 제조 공정 장비 운영 (22.06.15 ~ 22.07.14) / 교육기관 :한국기술교육대학교 온라인평생교육원  
+>DIFFUSION 장비에서 수행되는 공정과 주요 부품의 구성 및 동작 원리, 공정결과에 대한 평가 통해 장비의 상태 및 유지‧보수
+Track 장비에서 수행되는 PR 도포, 열처리, 현상 공정과 주요 부품의 구성 및 동작 원리, 공정결과에 대한 평가 통해 장비의 상태 및 유지‧보수
+그 외 CLEANING 및 CMP장비서 수행되는 공정 및 주요 구성부품 학습
+![e-koreatech 반도체 제조 공정 장비 운영](https://user-images.githubusercontent.com/113766590/190854896-8ea97f94-5f63-4c97-8cc5-312f17c0e98a.JPG)
+
+- 반도체 재료 및 소자 (22.06.15 ~ 22.07.14) / 교육기관 : 한국기술교육대학교 온라인평생교육원
+>반도체의 기본적인 특성에서부터 반도체 재료, 소자에 대한 전반적인 내용을 학습. 재료분야에서는 원소반도체, 화합물반도체, 산화물반도체, 유기반도체의 대표적인 예와 특징과 용도를 포함하고, 소자분야에서는 다이오드, 트랜지스터 등 개별소자에서부터 LED, 태양전지 등 광반도체 소자에 이르기까지 각 소자의 기본적인 특성을 포함
+![e-koreatech 반도체 재료 및 소자](https://user-images.githubusercontent.com/113766590/190854897-cbe668f2-52b5-491d-b21f-6f04ff1c2e3b.JPG)
+
+
+- 제 12회 KIDS DISPLAY SCHOOL 디스플레이 기초 (22.07.13 ~ 22.08.02) / 교육기관 : 한국정보디스플레이학회  
+>a-Si, p-si 기반 TFT 공정, LTPS, LTPO, Oxide TFT, Quantum Dot 기술, OLED, micro LED 등의 구동원리, AR/VR, 디스플레이 광학, LCD 액정 및 구동원리 등 디스플레이 산업의 전반적인 내용을 학습
+ 비고 : 해당 교육 성적 A로 LG디스플레이 및 삼성디스플레이 입사 시 가점 존재
+ ![2018732034_resume_61111465 (3)](https://user-images.githubusercontent.com/113766590/190854702-7ff7ee81-68f2-44c9-bb42-2e7a35c35262.PNG)
+
+- 반도체 소자 및 전공정 핵심과정 (22.07.18 ~ 22.08.06) / 교육기관 : 윈스펙 원격평생교육원  
+>반도체소자공학의 전반과 DRAM, SRAM, NAND Flash 등의 메모리 소자의 작동방식 및 구조에 대하여 학습. 또한 반도체 8대공정인 박막 증착, 포토, CMP, 산화/확산, 이온주입, 식각, 금속 배선 등에 대하여 학습하였다.
+![2018732034_resume_16144366 (1)](https://user-images.githubusercontent.com/113766590/190854703-d68b3885-c4b9-42d3-879a-c3685263a2b9.PNG)
+
+- 전력용 반도체 소자 및 TCAD Simulation의 기초 (22.08.11 ~ 22.08.12) / 교육기관 : IDEC(반도체설계교육센터)  >전력용 반도체의 종류, 구조 및 동작 원리에 대해 이해하고, 이를 개발하기 위해 TCAD Sentaurus를 활용하는 법에 대해 학습
+![IDEC TCAD](https://user-images.githubusercontent.com/113766590/190854634-7b8ebe4d-f161-4fd7-8200-efd9bfbce9f7.JPG)
+
+### Blog POSTING
+학습한 내용 및 반도체/디스플레이 산업 동향 및 기업체 관련 뉴스 등을 포스팅하고 있습니다.
+![블로그 네이버](https://user-images.githubusercontent.com/113766590/190855095-ac6bf8f0-e1d8-4f2a-a8f7-2250ac97b796.JPG)
+
+## 산업 박람회 참가
+직접 반도체, 전기자동차, 디스플레이 산업의 기술 및 산업의 발전 동향을 파악하기 위해 각종 박람회를 참가하였습니다.
+
+- SEMICON KOREA 2022 / (22.02.09)
+![세미콘 전시회](https://user-images.githubusercontent.com/113766590/190856348-8103577f-82c9-4aea-8be9-59c799be3dc4.jpg)
+- xEV Trend Korea 2022 / (22.03.20)
+![전기자동차 전시회](https://user-images.githubusercontent.com/113766590/190856345-9b2fb631-de3e-4551-ae85-e7e5f570b599.jpg)
+- K-Display 2022 / (22.08.10)
+![디스플레이 전시회](https://user-images.githubusercontent.com/113766590/190856350-fde50ff0-51d3-4547-aef2-d14d3ec21f94.jpg)
 
 ## 프로젝트 이력
+### 아프리카 지하수 수급을 위한 스털링 엔진 
+- 소개 : 전력부족으로 인해 상당히 많은 지하수를 끌어올리지 못하는 아프리카의 상황을 개선하기 위해, 전력소모및 연료사용량을 최소화 시킬 수 있는 스털링 엔진 기반 지하수 펌프를 제작
+- 기능 : 스털링엔진을 통해 Capacitor을 충전시키고, 이를 통한 지하수 펌핑
+- 제품 크기 : 
+- 기간 : 2018.03 ~ 2018.06
+- 비고 : 공학설계입문 전시회(FEDEC) 출품작
+
+![스털링엔진](https://user-images.githubusercontent.com/113766590/190854140-fcd268c6-ac01-489e-82f4-9181e4404e01.JPG)
 
 
-<img src='./images/toonies.png' width="80" />
+### 배터리 잔량 표시기
+- 소개 : 아두이노 및 LM3914를 이용하여 널리 사용되고 있는 소형 배터리의 잔량을 LCD 및 LED로 모니터링 가능한 배터리 잔량 표시기를 제작
+- 기능 : 배터리 잔량 표시 및 내부 등가저항 계산 기능 
+- 설계 목적: 배터리 응용 분야 증가에 따른 관련 회로설계 능력 함양
+- 측정 대상 : 알카라인 배터리 (AA)
+- 제품 크기 : 18(cm) X 12(cm)
+- 기간 : 2021.05 ~ 2021.06
+![배터리 잔량표시기](https://user-images.githubusercontent.com/113766590/190854374-0e0a2904-4bac-4e8c-8bbf-56078387db8e.JPG)
 
-### 투니스
-- 소개: 합법적으로, 공짜로, 누구나 웹툰을 볼 수 있도록 도와주는 서비스
-- 사이드 프로젝트로 혼자 서버/백엔드 개발
-- 기간 : 2019.01 ~ 2019.12
-- 매출 : 8,709,411원
 
-<img src='./images/ridibooks.png' width="80" />
+### 전압 및 전류 모니터링이 가능한 배터리 충전기 설계
+- 소개 : 휴대용 기기에 널리 사용되고 있는 소형 배터리의 충전기를 설계하고 배터리 단자의 전압 및 전류를 모니터링 가능한 충전기를 제작
+- 기능 : 배터리 충전 소요 시간 및 공급 전류, 완충 대비 충전량, 현재 배터리 전압을 LED 및 LCD로 확인 가능
+- 설계 목적 : 배터리 응용 분야 증가에 따른 관련 회로설계 능력 함양
+- 측정 대상 : 리튬이온 배터리
+- 제품 크기 : 25(cm) X 25(cm)
+- 기간 : 2021.10 ~ 2021.12
+![배터리 충전기](https://user-images.githubusercontent.com/113766590/190854060-799d97a3-4791-415a-92eb-aa69e532f269.JPG)
 
-### 리디북스
-- 소개: 1등 전자책 서비스
-- 기간: 2018.09 ~ 2020.09
-- 프로젝트 : 리디페이퍼(3세대) 앱 개발, 웹툰/웹소설용 기능 추가, 유지보수
+### Logistic Regression을 이용한 주가 예측 모델 설계
+- 소개 : Yahoo finance에서 2년 동안의 주식 csv 데이터를 정제한 후, Logistic Regression을 이용하여 다음날의 주식 등락을 예측하는 모델을 설계
+- 기능 : 약 57%의 Accuracy를 통해 주식 투자의 보조적 지표로 활용 가능 (세계적 헤지펀드의 경우 60%대)
+- 설계 목적 : 반도체/디스플레이 공정 분야 뿐만 아니라 커져가는 빅데이터 활용 능력 및 엔지니어로서의 Software 활용 능력을 함양
+- 기간 : 2022.04 ~ 2022.05
+![주식예측모델](https://user-images.githubusercontent.com/113766590/190854363-7daf0105-0ccb-4b85-a578-ba507cef9373.JPG)
 
-### 헤이딜러
-- 소개: 경매로 내차팔기 서비스
-- 기간: 2017.07 ~ 2018.09
-- 역할: 유지보수, 신규기능 개발
-- 관련기술: MVP, rxJava, databinding, lint, Travis, Fabric, SharedElement Transition, Canvas
 
-<img src="https://avatars0.githubusercontent.com/u/24453230?s=200&v=4" width="80" height="80"/>
+### 3단계 주파수 대역별 오디오 레벨 미터
+- 소개: 입력된 음성 신호를 콘덴서 마이크 및 Pre-Amp로 입력받고 해당 신호를 고주파/중주파/저주파/원음으로 분리한 후, 0.2~ 5배 크기로 가변 증폭 가능한 주파수 대역별 레벨미터를 제작
+- 기능 : 스위치를 통한 원음 / 이퀄라이저 모드 구현, 마스터볼륨 조절 가능, 주파수 대역대별 강조 가능, LCD를 통한 볼륨 모니터링 가능, 2련가변저항을 통한 볼륨 및 노이즈 제거
+- 제품 크기 : 30(cm) X 40(cm)
+- 기간 : 2022.05 ~ 2021.06
+![레벨미터](https://user-images.githubusercontent.com/113766590/190854387-5808a376-44be-4cda-98da-17b04583f103.JPG)
 
-### CALY
-- 소개: 일정기반 추천서비스 CALY
-- 기간: 2016.12 ~ 2017.07
-- 역할: 안드로이드 어플리케이션 99%담당, Caldav 프로토콜, api서버 10% 담당, 기술블로그 작성(30%)
-- 관련기술: Android, CI/CD(travis), Caldav, 3-legged OAuth, Travis, JIRA(애자일 스프린트), Collaborative Filtering(추천 알고리즘)
-- 자세한 설명은 [이 github 그룹](https://github.com/CalyFactory)에 있습니다.
-- 기술블로그는 [이 링크](https://calyfactory.github.io/)에서 보실수 있으며, [저장소는 여기](https://github.com/CalyFactory/CalyFactory.github.io)입니다.(기여도 30%)
 
-<img src="https://github.com/JSpiner/Soma_SlackBot_taja/raw/develop/imgs/logo-circle-512.png" width="80" height="80"/>
-
-### Surfinger
-- 소개: 슬랙 봇 기반 타자게임
-- 기간: 2016.09 ~ 2016.12
-- 역할: 주요 게임로직, 멀티프로세싱 처리 (전체 447커밋중 193커밋을 기여함)
-- 관련기술: python, Message-Q, worker, Multiprocessing, RealTimeMessaging(Socket), newrelic
-- 자세한 설명은 [이 github 저장소](https://github.com/JSpiner/Soma_SlackBot_taja)에 있습니다.
-
-## 오픈소스 기여
-
-### Adambl4/mirakle
-- [안드로이드 리모트 빌드 환경에서 hostname 변환이 잘못되고 한글이 깨지는 이슈 수정](https://github.com/Adambl4/mirakle/pull/123)
-
-### Sonatype/nexus directjngine
-- [파일 경로에 따라 디버그 유틸이 꼬이는 버그 수정 PR](https://github.com/sonatype/directjngine/pull/21)
-
-### PhotoEditor
-- [Deprecated 및 크래시 대응](https://github.com/burhanrashid52/PhotoEditor/pull/324)
-
-### TedPermission
-- [Travis CI 빌드 관련 설정 수정 PR](https://github.com/ParkSangGwon/TedPermission/pull/66)
-- [화면 회전 옵션 추가 및 SDK 버전에 따른 대응 추가 PR](https://github.com/ParkSangGwon/TedPermission/pull/74#issuecomment-363602722)
-
-### RxAndroid
-- [오타 수정 PR](https://github.com/ReactiveX/RxAndroid/pull/411)
 
 ## 수상 경력
-취미로 해커톤을 종종 나가곤 합니다. <br/>
-**프로젝트에 도입해볼까?** 하는 신기술들을 <br/>
-해커톤에서 간단하게 적용해보고 프로젝트에 도입해보곤 합니다.
 
-#### 세종대학교 메이커톤 2020 - 우수상
-- 수상 날짜 : 2020년 12
+#### 제 1회 세계청소년발명올림피아드 2016 (동상 수상)
 
-#### 서울 스타트업 윅엔드 2019 - Creativity(2위)
-- 수상 날짜 : 2019년 11월
-
-#### 미세먼지 해커톤 - 우수상
-- 수상 날짜 : 2019년 6월
-
-#### 9xD GDG Planet 해커톤 - Best Helper(개인수상), Zone중하상 수상(팀)
-- 수상 날짜 : 2018년 9월
-
-#### Unithon 대학생 연합 해커톤 - NH 농협은행상
-- 수상 날짜 : 2018년 1월
-
-#### 오사카 스타트업 윅엔드 2017 - 1st Place(1위)
-- 해외 해커톤
-- 수상 날짜 : 2017년 12월
-
-#### 인천 글로벌 스타트업 윅엔드 2017 - 1st Place(1위)
-- 수상 날짜 : 2017년 10월 
-- 관련정보 : https://github.com/JSpiner/know-your-kids
-
-#### Unithon 대학생 연합 해커톤 - 최우수상
-- 수상 날짜: 2017년 2월
-- 관련정보 : https://github.com/unithon4th
-
-#### 강원랜드 메이커톤 - 대상(1등위)
-- 수상 날짜 : 2017년 1월
+#### 광운대학교 총장상 2022-2 (Dean's List) 
 
 <br/>
 <br/>
 
-### 이 이외에도 [25+개의 수상실적](https://github.com/JSpiner/RESUME/blob/master/AWARDS.md)이 있습니다. 
-(너무 길어져 생략합니다. [AWARDS.md에서](https://github.com/JSpiner/RESUME/blob/master/AWARDS.md) 확인해주세요)
-
-## 지인 평가
-### [김한슬마로](https://github.com/honeymaro)(개발자, [CICERON Inc.](https://ciceron.me/))
->얕고 넓게 신기술을 좇기보다는 한 가지 기술의 원리 파악 및 응용에 집중하는 편입니다. 따라서 대화를 할 때 그 깊이를 많이 체감하곤 합니다. 그리고 항상 본인의 실력을 가늠하기 위해 필드에서 빨리 적용해보고 각종 대회에서 열심히 검증받으려 합니다. 컴퓨터 이외에도 호기심을 자극하는 활동에 끊임없이 도전하는 모습에서 배움에 대한 열정 또한 대단하다고 생각합니다. 항상 겸손하고 예의 바른 모습도 보기 좋습니다. 화이팅입니다!!
-
-### [신광수](https://www.linkedin.com/in/%EA%B4%91%EC%88%98-%EC%8B%A0-202b63146)(개발자, [Fandom Inc.](http://fandom.io/))
->해커톤마니아. 매사에 전념해 항상 좋은 결과를 만듬
-
-### [김병찬](https://github.com/deeean/)(개발자, [PRNDCompany](http://prnd.co.kr), 전 직장동료)
-> 뛰어난 커뮤니케이션을 바탕으로 도메인에 대한 이해를 매우 중요시하며 디자이너가 가질법한 섬세함까지 삼위일체를 가지고 있는 개발자라 생각합니다.
-
-### [이재일](https://github.com/githubrat/)(개발자, [RIDI](https://ridicorp.com/), 전 직장동료)
-> 해커톤 마니아. <br> 골치아픈 이슈들이 생겼을 때 여러번 도움을 받은 경험이 있습니다. 여러 상황에서 생길만한 이슈대응능력이 좋습니다.
-> <br> 관심갖는 모든 영역에 깊게 파고 듭니다.
-
-### [유호균](https://github.com/philographer/)(개발자, [Team Mondrian.](https://teammondrian.com/))
-> Fast Learner<br/>
-> 같은 소프트웨어 마에스트로 활동했던 동기, 그리고 해커톤 파트너로서 바라본 `JSpiner`는<br/>
-> 자신의 코드에서 개선할 점을 끊임없이 알아내려고 하며 빠르고 능동적으로 학습하는 멋진 개발자입니다.<br/>
-> 뿐만 아니라 주변 지인들로부터 항상 배우려는 자세와 태도를 가지고 있어서 앞으로의 성장이 더 기대됩니다.
-
-### [장준하](https://github.com/jangjunha/)(개발자, [Frientrip](https://frip.co.kr/))
-> 개발자로서도 팀원으로서도 함께하고 싶은 사람입니다.
-
-### [이지훈](https://github.com/gglns94)(개발자, [PRNDCompany](http://prnd.co.kr), 전 직장동료)
-> 1. 커뮤니케이션에 공을 들이는 게 느껴지는 사람. 섬세한 설명과 좋은 질문으로 함께 일 할 때 편하고 기분이 좋아지는 사람.
-> 2. 개발자로서, 팀의 구성원으로서 자신과 환경을 지속적으로 개선하고자 하는 의지가 보이는 사람.
-> 3. 귀엽다.
-
-### [박상권](https://github.com/ParkSangGwon) (개발자, [PRNDCompany](http://prnd.co.kr), 전 직장동료)
-아래와 같은 이유로 귀사에서 이 사람을 채용하지 않았으면 합니다.
-
-1. 구성원들을 귀찮게 합니다.
-- 효율적이지 못한 코드라고 발견되면 이를 개선할 수 있는 방안에 대해서 고민해보고 수정하려고 노력합니다.
-- 오류를 발견하면 이를 즉각적으로 해당 담당자에게 알리고 문제가 최대한 빨리 해결될수 있도록 돕습니다.
-- 사내문화나 서비스에 개선해야할 점이 있다고 생각하면 주저없이 개선방안에 대해서 제안합니다.
-
-2. 지시한대로 일하지 않습니다.
-- 더 좋은 방법이나 추가적인 기획사항이 있다고 생각되면 바로 이야기합니다.
-- 생각치 못한 기획상의 구멍을 먼저 찾아내어 좋은 해결방안에 대해서 제안합니다.
-- 디자이너가 실수한 화면이나 문구를 그대로 만들지 않고 의도했을것으로 예상되는 구현방법으로 구현하고 디자이너에게 다시한번 확인받습니다.
-
-3. 자신이 잘못했다고 합니다.
-- 자만하지 않고 자신이 부족한점이 무엇인지 항상 파악하려고 합니다.
-- 함께일한 동료로부터 자신의 업무에 대해서 피드백을 받아 고치려고 노력합니다.
-- 오류를 발생시키거나 잘못한 점을 지체하지 않고 즉각적으로 리더에게 공유해서 더 큰 문제를 막을 수 있도록 합니다.
-
-위와 같은 이유로 이 개발자는 저희 회사에서 함께 일했으면 하기 때문에, 다른회사에서 채용하지 않았으면 좋겠습니다.
-
-### [이동근](https://github.com/eastroots92)(개발자, [rainist](https://rainist.com/))
-
-> 협업하는데 있어 상대를 배려하고 존중하는 것이 느껴지는 친구입니다.
-> 매사 모든 일에 진취적이고 적극적입니다.
-> 또한 `JSpiner`의 코드와 협업하는 과정을 보고 항상 깨우침을 많이 얻고 있습니다.
->
-> 제일 중요한 것은 그의 코드 하나하나에 달콤함이 묻어납니다.
-> 여태 본 개발자 중에 가장 `스윗한 개발자`입니다.
 
 
-
-### [김정규](https://github.com/LenKIM)(개발자, [DAOU S/W Labs](http://www.daou.com/))
-
-> 저는 어떤 개발적인 문제를 해결해야 될때, 속으로 생각해봅니다.
->
-> 성민이라면 어떻게 해결했을까? 어떤 부분을 먼저 생각해볼 수 있을까?
->
-> 그 만큼 제가 문제를 바라보는 관점보다 더 큰 관점으로 문제를 해결할 수 있는 능력을 가진 친구입니다.
-> 
->
-> 좋은 개발자란...
->
-> 멋진 개발자란...
->
-> 진짜 개발자란... 가장 먼저 떠오르는 사람은 오직 `JSpiner` 뿐이였습니다.
-
-
-### [이상훈](https://github.com/hun6728)(개발자, [RIDI](https://ridicorp.com/), 전 직장동료)
-비대면 업무 상황이 증가됨에 따라, 협업의 가치는 계속 증가될 것입니다. 제가 본 성민님은 <b>협업에 최적화된 개발자</b>입니다.
-
-> <h3>고객이 불편하다고 느끼는 기능 외에 기술부채에도 공격적으로 대처합니다.</h3>
-> 고객에게 최고의 서비스를 지원하기 위해 고객의 요구사항과 피드백을 대응하는데 바쁜데도 불구하고, 기술부채에도 끊임없이 대처합니다. <br/>
-> 홀로 진행하기에 벅찬 기술부채인 경우에는 이슈로 만들고 팀 내에 정리해서 효과적으로 공유합니다. <br/>
-> 말로는 쉽지만 실무에서 이러기란 대단히 어려울 것이라 생각합니다. 그 어려운 것을 성민님은 항상 해냅니다.<br/><br/>
-
-> <h3>매너있는 개발자입니다.</h3> 
-> 기획자, 디자이너와 끊임없이 소통하여 되도록 이해하기 쉽게 의사소통합니다.<br/>
-> 기획하거나 디자인한 기능이 개발적으로 어렵다면, 어떤 점이 어려운지 쉽고 상세하게 공유하려합니다.<br/>
-> 타 직군과 협업하는데 매너를 갖춘, 지식의 저주에 걸리지 않은 최고의 개발자입니다.
-
-
-### [최평강](https://github.com/yenoss)(개발자, 삼성전자, SW마에스트로 동료)
-## 말 잘 통하는 사람.
-
-성민님과 `sw마에스트`로 과정을 하며 마지막 과제까지 근1년간 보아온 성민님의 특성(?)은 이렇습니다.
-<br><br/>
-어느 개발자들보다 업무에 있어 관련 `이야기`를 잘 하고 `이해력`이 뛰어납니다. 고로 말이 잘 통합니다.
-자신의 업무에 처한 상황을 잘 이해하고, 어떤 단계인지, 지금 `해야할 일이 무엇인지`를 명확히 파악한다는 것입니다.
-<br><br/>
-개발에 관한 `회의`나 `코드 리뷰`등을 할 때 특히 이 능력(?)이 돋보이는데, 논의 내용이 쓸데없이 길어지지 않고 서로 원하는 바를 명확히 이해하기 때문에 `의사결정` 내리기 수월해집니다.  또한 `고민을 즐기는 편`이라 아이디어가 필요하거나, 무언가를 혼자 결정내리기 어려울때 큰 힘이 됩니다. <br/>
-`원할한 소통`은 팀 퍼포먼스를 증가시켜줄 수 있는가장 좋은 수단일 것이라 생각합니다. 근데 성민님은 이걸 잘 해요.
-<br><br/>
-한 마디로,  
-`말 잘 통해서 일 같이하기 편해요`
-
-ps. 개발쪽으로는, 물론 코딩도 잘 해요. `코딩 천재다!` `개발 미쳤다!`이런건 아닌데, 이유있는 코딩을 합니다. 합리적입니다.<br/>
-ps2. 가끔 사석에서 노잼개그하는데, 그건 견뎌야되요(모든건 trade-off...)
-
----
-
-지인분의 평가는 [Pull Request](https://github.com/JSpiner/RESUME/pulls) 로 받고있습니다.
-<br/>
-
-
-----
 
 여기까지 읽어주셔서 감사합니다. <br/>
-부족한 부분이나 더 궁금하신 내용이 있다면 [이슈](https://github.com/JSpiner/RESUME/issues)로 남겨주시겨나, jspiner@naver.com으로 연락주세요.<br/>
+부족한 부분이나 더 궁금하신 내용이 있다면 [이슈](https://github.com/YeonSoo622/RESUME/issues)로 남겨주시겨나, dustn4889@gmail.com으로 연락주세요.<br/>
 감사합니다.
