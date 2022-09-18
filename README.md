@@ -32,7 +32,7 @@
 
 
 ## 학력
-- 광운대학교 전기공학과 졸업(2018 ~ 2024)
+- 광운대학교 전기공학과 (2018 ~ 2024)
 - 서울동성고등학교 졸업(2015 ~ 2018)
 - 동국대학교사범대학부속중학교 졸업(2012 ~ 2015)
 - 서울장평초등학교 졸업 (2006 ~ 2012)
@@ -67,18 +67,18 @@
 - Google Colab / Pytorch를 사용하여 Machine Learning으로 많은 양의 데이터를 정제 및 처리하는 능력이 있습니다.
 >Linear Regression / Logistic Regression / Multinomial Classification 모델을 활용 가능합니다.
 
-##### python을 이용한 PROJECT
+### python을 이용한 PROJECT
 - iPad를 통해 미리 Sketch해둔 캐릭터의 얼굴/머리/옷/표정 등을 Python을 이용하여 Random하게 Mix한 후, python을 통해 NFT 거래 사이트인 'Opensea'에 자동적으로 새로운 NFT를 Upload하고 판매하는 Project를 진행했엇습니다.  
 
 <img src="https://user-images.githubusercontent.com/113766590/190895997-e64a9b92-4b49-47cd-ac59-26ad5cbf0d32.jpg" width="470" height="300"/>
 
-##### Code Composer Studio (CCS)를 이용한 인터럽트 처리, ePWM 생성 및 Motor 제어 
+### Code Composer Studio (CCS)를 이용한 인터럽트 처리, ePWM 생성 및 Motor 제어 
 - DSP인 TI사의 TMS320f28335, easy dsp 및 CCS를 이용하여 DSP에 각종 인터럽트를 설정 및 처리하는 역할을 수행해보았고, ePWM을 직접 설계하였으며, 이를 통해 DC/AC Motor의 구동 방향 및 속도 제어 등을 해본 적이 있습니다.
 <img src="https://user-images.githubusercontent.com/113766590/190896262-625a74f9-6faa-45eb-a44b-589ee88ff4eb.jpg" width="470" height="300"/>
                                                                                                                
-##### 이외에도 C, Arduino 등의 개발환경도 다룰 수 있습니다.                                                                                                                
-### 교육 이수 List
-반도체 공정 / 설계에 필요한 역량을 쌓기 위해, 교내 교육뿐만 아니라 외부 교육도 참가하며 직무 역량을 함양하였습니다.
+#### 이외에도 C, Arduino 등의 개발환경도 다룰 수 있습니다.                                                                                                                
+## 교육 이수 List
+#### 반도체 공정 / 설계에 필요한 역량을 쌓기 위해, 교내 교육뿐만 아니라 외부 교육도 참가하며 직무 역량을 함양하였습니다.  
 
 - 반도체 공정 기초 (21.08.15 ~ 21.09.14) / 교육기관 : 한국기술교육대학교 온라인평생교육원   
 >반도체 8대 공정과 소자의 기초
@@ -108,7 +108,8 @@ Track 장비에서 수행되는 PR 도포, 열처리, 현상 공정과 주요 �
 
 - 제 12회 KIDS DISPLAY SCHOOL 디스플레이 기초 (22.07.13 ~ 22.08.02) / 교육기관 : 한국정보디스플레이학회  
 >a-Si, p-si 기반 TFT 공정, LTPS, LTPO, Oxide TFT, Quantum Dot 기술, OLED, micro LED 등의 구동원리, AR/VR, 디스플레이 광학, LCD 액정 및 구동원리 등 디스플레이 산업의 전반적인 내용을 학습  
->비고 : 해당 교육 성적 A로 LG디스플레이 및 삼성디스플레이 입사 시 가점 존재
+#### 비고 : 해당 교육 성적 A로 LG디스플레이 및 삼성디스플레이 입사 시 가점 존재  
+
  
 
 
@@ -122,7 +123,7 @@ Track 장비에서 수행되는 PR 도포, 열처리, 현상 공정과 주요 �
 
 ![수료증모음](https://user-images.githubusercontent.com/113766590/190894563-bcdeeea8-9d29-4483-82aa-4cd018f745b4.jpg)
 
-### Blog POSTING
+## Blog POSTING
 학습한 내용 및 반도체/디스플레이 산업 동향 및 기업체 관련 뉴스 등을 포스팅하고 있습니다.
 ![블로그 네이버](https://user-images.githubusercontent.com/113766590/190855095-ac6bf8f0-e1d8-4f2a-a8f7-2250ac97b796.JPG)
 
