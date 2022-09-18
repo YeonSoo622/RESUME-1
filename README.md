@@ -1,16 +1,23 @@
 # 이력서
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-![contributor](https://img.shields.io/github/contributors/JSpiner/RESUME.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/JSpiner/RESUME.svg)
-![status](https://img.shields.io/badge/offer_welcome-brightgreen.svg)
+<p align="center">
+<img src="https://img.shields.io/badge/TCAD-3776AB?style=?style=flat&logo=TCAD&logoColor=white">
+<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=C%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/Pytorch-4479A1?style=flat&logo=Pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/Pscad-02569B?style=flat&logo=pscad&logoColor=white"> 
+<img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black"> 
+<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"></p>
+<h2></h2>
 
 ## 소개
-![프로필용](https://user-images.githubusercontent.com/113766590/190851982-5a393da7-5301-460f-bd8d-3e049e891a27.jpg)
+<img src="https://user-images.githubusercontent.com/113766590/190851982-5a393da7-5301-460f-bd8d-3e049e891a27.jpg" width="250" height="300"/>
+                                                                                                                                         
 <h1>반갑습니다. 장연수입니다.</h1>
->안녕하세요, 반도체/디스플레이 분야로의 진출을 준비하고 있는 장연수 입니다.  
+안녕하세요, 반도체/디스플레이 분야로의 진출을 준비하고 있는 장연수 입니다.  
+  
 반도체 공정기술/설계 분야에서 근무하기 위하여, 교내외의 교육을 통하여 반도체 8대 공정 및 DRAM / Nand-Flash 등의 반도체 소자 등의 구성 및 동작을 이해하고 있으며 공정 상의 데이터를 처리하기 위한 빅데이터 처리 능력 및 Tcad / 스파이스류 Tool 활용 능력을 보유하고 있습니다. 또한 블로그를 통해 반도체 산업의 동향 및 이슈 등을 정리하여 포스팅하고 있습니다.  
-디스플레이 Panel 설계 분야에서 근무하기 위하여, 교내외의 교육을 통하여 LCD, OLED, Quantum Dot, MicroLED 광학 및 구동회로, 재료 등의 베이스 지식을 이해하고 있으며, 특히 a-si/p-si/Oxide 기반의 TFT 및 이를 활용한 Backplane 분야를 중점적으로 학습하여 Panel 설계 분야 역량을 함양하였습니다. 
-
+디스플레이 Panel 설계 분야에서 근무하기 위하여, 교내외의 교육을 통하여 LCD, OLED, Quantum Dot, MicroLED 광학 및 구동회로, 재료 등의 베이스 지식을 이해하고 있으며, 특히 a-si/p-si/Oxide 기반의 TFT 및 이를 활용한 Backplane 분야를 중점적으로 학습하여 Panel 설계 분야 역량을 함양하였습니다.  
+  
 전반적으로 전자회로 및 반도체 내에서의 물리적인 동작을 이해하고 있기 때문에, 회로 내의 Parameter 및 Component 변경 시의 상황 대처에 어려움이 없습니다.  
 팀원과의 협업과 소통을 중시하며, 조직 문화를 존중하고 녹아들 줄 아는 친화성을 가졌습니다.  
 앞으로 맡을 직무에서의 역량을 강화하기 위해 더 많은 노력을 하고 있습니다.
@@ -35,8 +42,8 @@
 - 전체 평점 : 4.02/4.5
 
 ## 어학성적
-- OPIc : IH(Intermediate High) 
-(유효 기간: 22.08.31 ~ 24.08.30)
+- OPIc : IH(Intermediate High)   
+>유효 기간: 22.08.31 ~ 24.08.30
 
 ## 단체경력
 - 서울동행 봉사동아리 (2018)
@@ -60,12 +67,11 @@
 
 - 반도체 공정 기초 (21.08.15 ~ 21.09.14) / 교육기관 : 한국기술교육대학교 온라인평생교육원   
 >반도체 8대 공정과 소자의 기초
-![e-koreatech 반도체 공정기초](https://user-images.githubusercontent.com/113766590/190854770-41203452-beaf-425b-878c-db9e17b0827d.JPG)
-
+<img src="https://user-images.githubusercontent.com/113766590/190854770-41203452-beaf-425b-878c-db9e17b0827d.JPG" width="250" height="300"/>
 
 - KiCad을 이용한 도면, PCB 설계 (21.12.29 ~ 21.12.30) / 교육기관 : IDEC(반도체설계교육센터)  
 >무료 캐드인 KiCad을 이용하여 실무에 이용할 수 있는 도면 제작 및 PCB 설계 기술 습득
-![IDEC 키캐드](https://user-images.githubusercontent.com/113766590/190854630-271ed1ba-0544-463d-bc77-10f51287c6d2.JPG)
+<img src="https://user-images.githubusercontent.com/113766590/190854630-271ed1ba-0544-463d-bc77-10f51287c6d2.JPG" width="250" height="300"/>
 
 - e-모빌리티를 위한 DSP 활용 기초 교육 (22.01.03 ~ 22.01.21) / 교육기관 : 광운대학교 미래에너지기술연구소  
 >DSP TMS320F28335를 이용하여 PWM 생성 및 전동기의 구동, 전기자동차의 구조 및 인터럽트 처리 방법 등을 학습
@@ -73,34 +79,40 @@
 - 임베디드 프로세서 구조의 이해 (22.01.12 ~ 22.01.12) / 교육기관: IDEC(반도체설계교육센터)  
 >임베디드 프로세서의 기본 구조를 이해하고, 이를 설계하는 과정에서 고려해야 하는 최적화 기법들을 습득
 디지털 논리회로 복습, ISA 및 pipelined 구조 이해, 메모리 시스템 이해
-![IDEC 임베디드](https://user-images.githubusercontent.com/113766590/190854633-91142f14-edd7-4786-95b6-7607b4bce85f.JPG)
+<img src="https://user-images.githubusercontent.com/113766590/190854633-91142f14-edd7-4786-95b6-7607b4bce85f.JPG" width="250" height="300"/>
 
 - 2022학년도 전력전자학회 동계세미나 (22.02.17) / 교육기관 : 전력전자학회  
 >전력용반도체, AI기반 전력변환장치 등
-![전력전자 동계](https://user-images.githubusercontent.com/113766590/190854635-db941dfc-04c3-4377-a9c1-fec424fbcee7.JPG)
+<img src="https://user-images.githubusercontent.com/113766590/190854635-db941dfc-04c3-4377-a9c1-fec424fbcee7.JPG" width="250" height="300"/>
+
 
 - 반도체 제조 공정 장비 운영 (22.06.15 ~ 22.07.14) / 교육기관 :한국기술교육대학교 온라인평생교육원  
 >DIFFUSION 장비에서 수행되는 공정과 주요 부품의 구성 및 동작 원리, 공정결과에 대한 평가 통해 장비의 상태 및 유지‧보수
 Track 장비에서 수행되는 PR 도포, 열처리, 현상 공정과 주요 부품의 구성 및 동작 원리, 공정결과에 대한 평가 통해 장비의 상태 및 유지‧보수
 그 외 CLEANING 및 CMP장비서 수행되는 공정 및 주요 구성부품 학습
-![e-koreatech 반도체 제조 공정 장비 운영](https://user-images.githubusercontent.com/113766590/190854896-8ea97f94-5f63-4c97-8cc5-312f17c0e98a.JPG)
+<img src="https://user-images.githubusercontent.com/113766590/190854896-8ea97f94-5f63-4c97-8cc5-312f17c0e98a.JPG" width="250" height="300"/>
+
 
 - 반도체 재료 및 소자 (22.06.15 ~ 22.07.14) / 교육기관 : 한국기술교육대학교 온라인평생교육원
 >반도체의 기본적인 특성에서부터 반도체 재료, 소자에 대한 전반적인 내용을 학습. 재료분야에서는 원소반도체, 화합물반도체, 산화물반도체, 유기반도체의 대표적인 예와 특징과 용도를 포함하고, 소자분야에서는 다이오드, 트랜지스터 등 개별소자에서부터 LED, 태양전지 등 광반도체 소자에 이르기까지 각 소자의 기본적인 특성을 포함
-![e-koreatech 반도체 재료 및 소자](https://user-images.githubusercontent.com/113766590/190854897-cbe668f2-52b5-491d-b21f-6f04ff1c2e3b.JPG)
+
+<img src="https://user-images.githubusercontent.com/113766590/190854897-cbe668f2-52b5-491d-b21f-6f04ff1c2e3b.JPG" width="250" height="300"/>
 
 
 - 제 12회 KIDS DISPLAY SCHOOL 디스플레이 기초 (22.07.13 ~ 22.08.02) / 교육기관 : 한국정보디스플레이학회  
 >a-Si, p-si 기반 TFT 공정, LTPS, LTPO, Oxide TFT, Quantum Dot 기술, OLED, micro LED 등의 구동원리, AR/VR, 디스플레이 광학, LCD 액정 및 구동원리 등 디스플레이 산업의 전반적인 내용을 학습
  비고 : 해당 교육 성적 A로 LG디스플레이 및 삼성디스플레이 입사 시 가점 존재
- ![2018732034_resume_61111465 (3)](https://user-images.githubusercontent.com/113766590/190854702-7ff7ee81-68f2-44c9-bb42-2e7a35c35262.PNG)
+ <img src="https://user-images.githubusercontent.com/113766590/190854702-7ff7ee81-68f2-44c9-bb42-2e7a35c35262.PNG" width="250" height="300"/>
+
 
 - 반도체 소자 및 전공정 핵심과정 (22.07.18 ~ 22.08.06) / 교육기관 : 윈스펙 원격평생교육원  
 >반도체소자공학의 전반과 DRAM, SRAM, NAND Flash 등의 메모리 소자의 작동방식 및 구조에 대하여 학습. 또한 반도체 8대공정인 박막 증착, 포토, CMP, 산화/확산, 이온주입, 식각, 금속 배선 등에 대하여 학습하였다.
-![2018732034_resume_16144366 (1)](https://user-images.githubusercontent.com/113766590/190854703-d68b3885-c4b9-42d3-879a-c3685263a2b9.PNG)
+<img src="https://user-images.githubusercontent.com/113766590/190854703-d68b3885-c4b9-42d3-879a-c3685263a2b9.PNG" width="250" height="300"/>
+
 
 - 전력용 반도체 소자 및 TCAD Simulation의 기초 (22.08.11 ~ 22.08.12) / 교육기관 : IDEC(반도체설계교육센터)  >전력용 반도체의 종류, 구조 및 동작 원리에 대해 이해하고, 이를 개발하기 위해 TCAD Sentaurus를 활용하는 법에 대해 학습
-![IDEC TCAD](https://user-images.githubusercontent.com/113766590/190854634-7b8ebe4d-f161-4fd7-8200-efd9bfbce9f7.JPG)
+<img src="https://user-images.githubusercontent.com/113766590/190854634-7b8ebe4d-f161-4fd7-8200-efd9bfbce9f7.JPG" width="250" height="300"/>
+
 
 ### Blog POSTING
 학습한 내용 및 반도체/디스플레이 산업 동향 및 기업체 관련 뉴스 등을 포스팅하고 있습니다.
@@ -133,7 +145,8 @@ Track 장비에서 수행되는 PR 도포, 열처리, 현상 공정과 주요 �
 - 설계 목적: 배터리 응용 분야 증가에 따른 관련 회로설계 능력 함양
 - 측정 대상 : 알카라인 배터리 (AA)
 - 제품 크기 : 18(cm) X 12(cm)
-- 기간 : 2021.05 ~ 2021.06
+- 기간 : 2021.05 ~ 2021.06  
+
 ![배터리 잔량표시기](https://user-images.githubusercontent.com/113766590/190854374-0e0a2904-4bac-4e8c-8bbf-56078387db8e.JPG)
 
 
@@ -143,14 +156,15 @@ Track 장비에서 수행되는 PR 도포, 열처리, 현상 공정과 주요 �
 - 설계 목적 : 배터리 응용 분야 증가에 따른 관련 회로설계 능력 함양
 - 측정 대상 : 리튬이온 배터리
 - 제품 크기 : 25(cm) X 25(cm)
-- 기간 : 2021.10 ~ 2021.12
+- 기간 : 2021.10 ~ 2021.12  
+
 ![배터리 충전기](https://user-images.githubusercontent.com/113766590/190854060-799d97a3-4791-415a-92eb-aa69e532f269.JPG)
 
 ### Logistic Regression을 이용한 주가 예측 모델 설계
 - 소개 : Yahoo finance에서 2년 동안의 주식 csv 데이터를 정제한 후, Logistic Regression을 이용하여 다음날의 주식 등락을 예측하는 모델을 설계
 - 기능 : 약 57%의 Accuracy를 통해 주식 투자의 보조적 지표로 활용 가능 (세계적 헤지펀드의 경우 60%대)
 - 설계 목적 : 반도체/디스플레이 공정 분야 뿐만 아니라 커져가는 빅데이터 활용 능력 및 엔지니어로서의 Software 활용 능력을 함양
-- 기간 : 2022.04 ~ 2022.05
+- 기간 : 2022.04 ~ 2022.05  
 ![주식예측모델](https://user-images.githubusercontent.com/113766590/190854363-7daf0105-0ccb-4b85-a578-ba507cef9373.JPG)
 
 
@@ -158,7 +172,7 @@ Track 장비에서 수행되는 PR 도포, 열처리, 현상 공정과 주요 �
 - 소개: 입력된 음성 신호를 콘덴서 마이크 및 Pre-Amp로 입력받고 해당 신호를 고주파/중주파/저주파/원음으로 분리한 후, 0.2~ 5배 크기로 가변 증폭 가능한 주파수 대역별 레벨미터를 제작
 - 기능 : 스위치를 통한 원음 / 이퀄라이저 모드 구현, 마스터볼륨 조절 가능, 주파수 대역대별 강조 가능, LCD를 통한 볼륨 모니터링 가능, 2련가변저항을 통한 볼륨 및 노이즈 제거
 - 제품 크기 : 30(cm) X 40(cm)
-- 기간 : 2022.05 ~ 2021.06
+- 기간 : 2022.05 ~ 2021.06  
 ![레벨미터](https://user-images.githubusercontent.com/113766590/190854387-5808a376-44be-4cda-98da-17b04583f103.JPG)
 
 
