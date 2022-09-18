@@ -3,8 +3,8 @@
 <img src="https://img.shields.io/badge/TCAD-3776AB?style=?style=flat&logo=TCAD&logoColor=white">
 <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=C%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/Pytorch-4479A1?style=flat&logo=Pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/Pscad-02569B?style=flat&logo=pscad&logoColor=white"> 
-<img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black"> 
+<img src="https://img.shields.io/badge/Pspice-02569B?style=flat&logo=Pspice&logoColor=white"> 
+<img src="https://img.shields.io/badge/CCS-FCC624?style=flat&logo=CCS&logoColor=black"> 
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"></p>
 <h2></h2>
