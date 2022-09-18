@@ -13,7 +13,7 @@
 <img src="https://user-images.githubusercontent.com/113766590/190851982-5a393da7-5301-460f-bd8d-3e049e891a27.jpg" width="250" height="300"/>
                                                                                                                                          
 <h1>반갑습니다. 장연수입니다.</h1>
-안녕하세요, 반도체/디스플레이 분야로의 진출을 준비하고 있는 장연수 입니다.  
+안녕하세요, 반도체/디스플레이 분야로의 진출을 준비하고 있는 장연수 입니다.   
   
 반도체 공정기술/설계 분야에서 근무하기 위하여, 교내외의 교육을 통하여 반도체 8대 공정 및 DRAM / Nand-Flash 등의 반도체 소자 등의 구성 및 동작을 이해하고 있으며 공정 상의 데이터를 처리하기 위한 빅데이터 처리 능력 및 Tcad / 스파이스류 Tool 활용 능력을 보유하고 있습니다. 또한 블로그를 통해 반도체 산업의 동향 및 이슈 등을 정리하여 포스팅하고 있습니다.  
 디스플레이 Panel 설계 분야에서 근무하기 위하여, 교내외의 교육을 통하여 LCD, OLED, Quantum Dot, MicroLED 광학 및 구동회로, 재료 등의 베이스 지식을 이해하고 있으며, 특히 a-si/p-si/Oxide 기반의 TFT 및 이를 활용한 Backplane 분야를 중점적으로 학습하여 Panel 설계 분야 역량을 함양하였습니다.  
@@ -59,9 +59,9 @@
 
 ## 직무 역량
 ### 디스플레이 (Panel설계) / 반도체 공정기술
-- TFT 소자 공정을 위한 일련의 경험으로, 스핀코터와 PEDOT:PSS, Pentacine 등으로 Thin film을 제작해보았습니다.
+- TFT 소자 공정을 위한 일련의 경험으로, 스핀코터와 PEDOT:PSS, Pentacine 등으로 Thin film을 형성 해보았습니다.
 >해당 과정에서 공정 내의 Recipe 및 Parameter를 변경하면서 uniformly coating 되는 최적의 조건을 탐구하였습니다.
-- 
+- Thermal 
 ### 교육 이수 List
 반도체 공정 / 설계에 필요한 역량을 쌓기 위해, 교내 교육뿐만 아니라 외부 교육도 참가하며 직무 역량을 함양하였습니다.
 
@@ -122,21 +122,24 @@ Track 장비에서 수행되는 PR 도포, 열처리, 현상 공정과 주요 �
 직접 반도체, 전기자동차, 디스플레이 산업의 기술 및 산업의 발전 동향을 파악하기 위해 각종 박람회를 참가하였습니다.
 
 - SEMICON KOREA 2022 / (22.02.09)
-![세미콘 전시회](https://user-images.githubusercontent.com/113766590/190856348-8103577f-82c9-4aea-8be9-59c799be3dc4.jpg)
-- xEV Trend Korea 2022 / (22.03.20)
-![전기자동차 전시회](https://user-images.githubusercontent.com/113766590/190856345-9b2fb631-de3e-4551-ae85-e7e5f570b599.jpg)
+<img src="https://user-images.githubusercontent.com/113766590/190856348-8103577f-82c9-4aea-8be9-59c799be3dc4.jpg" width="250" height="300"/>  
+
+- xEV Trend Korea 2022 / (22.03.20) 
+<img src="https://user-images.githubusercontent.com/113766590/190856345-9b2fb631-de3e-4551-ae85-e7e5f570b599.jpg" width="250" height="300"/>  
+
 - K-Display 2022 / (22.08.10)
-![디스플레이 전시회](https://user-images.githubusercontent.com/113766590/190856350-fde50ff0-51d3-4547-aef2-d14d3ec21f94.jpg)
+<img src="https://user-images.githubusercontent.com/113766590/190856350-fde50ff0-51d3-4547-aef2-d14d3ec21f94.jpg" width="250" height="300"/>
 
 ## 프로젝트 이력
 ### 아프리카 지하수 수급을 위한 스털링 엔진 
 - 소개 : 전력부족으로 인해 상당히 많은 지하수를 끌어올리지 못하는 아프리카의 상황을 개선하기 위해, 전력소모및 연료사용량을 최소화 시킬 수 있는 스털링 엔진 기반 지하수 펌프를 제작
 - 기능 : 스털링엔진을 통해 Capacitor을 충전시키고, 이를 통한 지하수 펌핑
 - 제품 크기 : 
-- 기간 : 2018.03 ~ 2018.06
+- 기간 : 2018.03 ~ 2018.06  
 - 비고 : 공학설계입문 전시회(FEDEC) 출품작
 
-![스털링엔진](https://user-images.githubusercontent.com/113766590/190854140-fcd268c6-ac01-489e-82f4-9181e4404e01.JPG)
+
+<img src="https://user-images.githubusercontent.com/113766590/190854140-fcd268c6-ac01-489e-82f4-9181e4404e01.JPG" width="250" height="300"/>
 
 
 ### 배터리 잔량 표시기
@@ -147,7 +150,7 @@ Track 장비에서 수행되는 PR 도포, 열처리, 현상 공정과 주요 �
 - 제품 크기 : 18(cm) X 12(cm)
 - 기간 : 2021.05 ~ 2021.06  
 
-![배터리 잔량표시기](https://user-images.githubusercontent.com/113766590/190854374-0e0a2904-4bac-4e8c-8bbf-56078387db8e.JPG)
+<img src="https://user-images.githubusercontent.com/113766590/190854374-0e0a2904-4bac-4e8c-8bbf-56078387db8e.JPG" width="250" height="300"/>
 
 
 ### 전압 및 전류 모니터링이 가능한 배터리 충전기 설계
@@ -157,24 +160,21 @@ Track 장비에서 수행되는 PR 도포, 열처리, 현상 공정과 주요 �
 - 측정 대상 : 리튬이온 배터리
 - 제품 크기 : 25(cm) X 25(cm)
 - 기간 : 2021.10 ~ 2021.12  
-
-![배터리 충전기](https://user-images.githubusercontent.com/113766590/190854060-799d97a3-4791-415a-92eb-aa69e532f269.JPG)
-
+<img src="https://user-images.githubusercontent.com/113766590/190854060-799d97a3-4791-415a-92eb-aa69e532f269.JPG" width="250" height="300"/>
 ### Logistic Regression을 이용한 주가 예측 모델 설계
 - 소개 : Yahoo finance에서 2년 동안의 주식 csv 데이터를 정제한 후, Logistic Regression을 이용하여 다음날의 주식 등락을 예측하는 모델을 설계
 - 기능 : 약 57%의 Accuracy를 통해 주식 투자의 보조적 지표로 활용 가능 (세계적 헤지펀드의 경우 60%대)
 - 설계 목적 : 반도체/디스플레이 공정 분야 뿐만 아니라 커져가는 빅데이터 활용 능력 및 엔지니어로서의 Software 활용 능력을 함양
 - 기간 : 2022.04 ~ 2022.05  
-![주식예측모델](https://user-images.githubusercontent.com/113766590/190854363-7daf0105-0ccb-4b85-a578-ba507cef9373.JPG)
-
+- 
+<img src="https://user-images.githubusercontent.com/113766590/190854363-7daf0105-0ccb-4b85-a578-ba507cef9373.JPG" width="250" height="300"/>
 
 ### 3단계 주파수 대역별 오디오 레벨 미터
 - 소개: 입력된 음성 신호를 콘덴서 마이크 및 Pre-Amp로 입력받고 해당 신호를 고주파/중주파/저주파/원음으로 분리한 후, 0.2~ 5배 크기로 가변 증폭 가능한 주파수 대역별 레벨미터를 제작
 - 기능 : 스위치를 통한 원음 / 이퀄라이저 모드 구현, 마스터볼륨 조절 가능, 주파수 대역대별 강조 가능, LCD를 통한 볼륨 모니터링 가능, 2련가변저항을 통한 볼륨 및 노이즈 제거
 - 제품 크기 : 30(cm) X 40(cm)
 - 기간 : 2022.05 ~ 2021.06  
-![레벨미터](https://user-images.githubusercontent.com/113766590/190854387-5808a376-44be-4cda-98da-17b04583f103.JPG)
-
+<img src="https://user-images.githubusercontent.com/113766590/190854387-5808a376-44be-4cda-98da-17b04583f103.JPG" width="250" height="300"/>
 
 
 ## 수상 경력
