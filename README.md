@@ -59,19 +59,32 @@
 
 ## 직무 역량
 ### 디스플레이 (Panel설계) / 반도체 공정기술
-- TFT 소자 공정을 위한 일련의 경험으로, 스핀코터와 PEDOT:PSS, Pentacine 등으로 Thin film을 형성 해보았습니다.
->해당 과정에서 공정 내의 Recipe 및 Parameter를 변경하면서 uniformly coating 되는 최적의 조건을 탐구하였습니다.
-- Thermal 
+- TFT 소자 공정을 위한 일련의 경험으로, 스핀코터와 PEDOT:PSS, Pentacine 등으로 Glass기판 위에 Thin film을 형성 해보았습니다.
+>해당 과정에서 공정 내의 Recipe 및 Parameter를 변경하면서 적절한 film 두께 및 film의 uniformly coating 되는 최적의 조건을 탐구하였습니다.
+- Thin film을 형성하는 또 다른 공정으로 PVD인 Thermal Evaporation을 통하여 Thin film을 Glass 기판 위에 증착하였습니다. 
+
+### Software적 역량
+- Google Colab / Pytorch를 사용하여 Machine Learning으로 많은 양의 데이터를 정제 및 처리하는 능력이 있습니다.
+>Linear Regression / Logistic Regression / Multinomial Classification 모델을 활용 가능합니다.
+
+##### python을 이용한 PROJECT
+- iPad를 통해 미리 Sketch해둔 캐릭터의 얼굴/머리/옷/표정 등을 Python을 이용하여 Random하게 Mix한 후, python을 통해 NFT 거래 사이트인 'Opensea'에 자동적으로 새로운 NFT를 Upload하고 판매하는 Project를 진행했엇습니다.  
+
+<img src="https://user-images.githubusercontent.com/113766590/190895997-e64a9b92-4b49-47cd-ac59-26ad5cbf0d32.jpg" width="470" height="300"/>
+
+##### Code Composer Studio (CCS)를 이용한 인터럽트 처리, ePWM 생성 및 Motor 제어 
+- DSP인 TI사의 TMS320f28335, easy dsp 및 CCS를 이용하여 DSP에 각종 인터럽트를 설정 및 처리하는 역할을 수행해보았고, ePWM을 직접 설계하였으며, 이를 통해 DC/AC Motor의 구동 방향 및 속도 제어 등을 해본 적이 있습니다.
+<img src="https://user-images.githubusercontent.com/113766590/190896262-625a74f9-6faa-45eb-a44b-589ee88ff4eb.jpg" width="470" height="300"/>
+                                                                                                               
+##### 이외에도 C, Arduino 등의 개발환경도 다룰 수 있습니다.                                                                                                                
 ### 교육 이수 List
 반도체 공정 / 설계에 필요한 역량을 쌓기 위해, 교내 교육뿐만 아니라 외부 교육도 참가하며 직무 역량을 함양하였습니다.
 
 - 반도체 공정 기초 (21.08.15 ~ 21.09.14) / 교육기관 : 한국기술교육대학교 온라인평생교육원   
 >반도체 8대 공정과 소자의 기초
-<img src="https://user-images.githubusercontent.com/113766590/190854770-41203452-beaf-425b-878c-db9e17b0827d.JPG" width="250" height="300"/>
 
 - KiCad을 이용한 도면, PCB 설계 (21.12.29 ~ 21.12.30) / 교육기관 : IDEC(반도체설계교육센터)  
 >무료 캐드인 KiCad을 이용하여 실무에 이용할 수 있는 도면 제작 및 PCB 설계 기술 습득
-<img src="https://user-images.githubusercontent.com/113766590/190854630-271ed1ba-0544-463d-bc77-10f51287c6d2.JPG" width="250" height="300"/>
 
 - e-모빌리티를 위한 DSP 활용 기초 교육 (22.01.03 ~ 22.01.21) / 교육기관 : 광운대학교 미래에너지기술연구소  
 >DSP TMS320F28335를 이용하여 PWM 생성 및 전동기의 구동, 전기자동차의 구조 및 인터럽트 처리 방법 등을 학습
@@ -79,40 +92,35 @@
 - 임베디드 프로세서 구조의 이해 (22.01.12 ~ 22.01.12) / 교육기관: IDEC(반도체설계교육센터)  
 >임베디드 프로세서의 기본 구조를 이해하고, 이를 설계하는 과정에서 고려해야 하는 최적화 기법들을 습득
 디지털 논리회로 복습, ISA 및 pipelined 구조 이해, 메모리 시스템 이해
-<img src="https://user-images.githubusercontent.com/113766590/190854633-91142f14-edd7-4786-95b6-7607b4bce85f.JPG" width="250" height="300"/>
 
 - 2022학년도 전력전자학회 동계세미나 (22.02.17) / 교육기관 : 전력전자학회  
 >전력용반도체, AI기반 전력변환장치 등
-<img src="https://user-images.githubusercontent.com/113766590/190854635-db941dfc-04c3-4377-a9c1-fec424fbcee7.JPG" width="250" height="300"/>
 
 
 - 반도체 제조 공정 장비 운영 (22.06.15 ~ 22.07.14) / 교육기관 :한국기술교육대학교 온라인평생교육원  
 >DIFFUSION 장비에서 수행되는 공정과 주요 부품의 구성 및 동작 원리, 공정결과에 대한 평가 통해 장비의 상태 및 유지‧보수
 Track 장비에서 수행되는 PR 도포, 열처리, 현상 공정과 주요 부품의 구성 및 동작 원리, 공정결과에 대한 평가 통해 장비의 상태 및 유지‧보수
 그 외 CLEANING 및 CMP장비서 수행되는 공정 및 주요 구성부품 학습
-<img src="https://user-images.githubusercontent.com/113766590/190854896-8ea97f94-5f63-4c97-8cc5-312f17c0e98a.JPG" width="250" height="300"/>
 
 
 - 반도체 재료 및 소자 (22.06.15 ~ 22.07.14) / 교육기관 : 한국기술교육대학교 온라인평생교육원
 >반도체의 기본적인 특성에서부터 반도체 재료, 소자에 대한 전반적인 내용을 학습. 재료분야에서는 원소반도체, 화합물반도체, 산화물반도체, 유기반도체의 대표적인 예와 특징과 용도를 포함하고, 소자분야에서는 다이오드, 트랜지스터 등 개별소자에서부터 LED, 태양전지 등 광반도체 소자에 이르기까지 각 소자의 기본적인 특성을 포함
 
-<img src="https://user-images.githubusercontent.com/113766590/190854897-cbe668f2-52b5-491d-b21f-6f04ff1c2e3b.JPG" width="250" height="300"/>
-
-
 - 제 12회 KIDS DISPLAY SCHOOL 디스플레이 기초 (22.07.13 ~ 22.08.02) / 교육기관 : 한국정보디스플레이학회  
->a-Si, p-si 기반 TFT 공정, LTPS, LTPO, Oxide TFT, Quantum Dot 기술, OLED, micro LED 등의 구동원리, AR/VR, 디스플레이 광학, LCD 액정 및 구동원리 등 디스플레이 산업의 전반적인 내용을 학습
- 비고 : 해당 교육 성적 A로 LG디스플레이 및 삼성디스플레이 입사 시 가점 존재
- <img src="https://user-images.githubusercontent.com/113766590/190854702-7ff7ee81-68f2-44c9-bb42-2e7a35c35262.PNG" width="250" height="300"/>
+>a-Si, p-si 기반 TFT 공정, LTPS, LTPO, Oxide TFT, Quantum Dot 기술, OLED, micro LED 등의 구동원리, AR/VR, 디스플레이 광학, LCD 액정 및 구동원리 등 디스플레이 산업의 전반적인 내용을 학습  
+>비고 : 해당 교육 성적 A로 LG디스플레이 및 삼성디스플레이 입사 시 가점 존재
+ 
 
 
 - 반도체 소자 및 전공정 핵심과정 (22.07.18 ~ 22.08.06) / 교육기관 : 윈스펙 원격평생교육원  
 >반도체소자공학의 전반과 DRAM, SRAM, NAND Flash 등의 메모리 소자의 작동방식 및 구조에 대하여 학습. 또한 반도체 8대공정인 박막 증착, 포토, CMP, 산화/확산, 이온주입, 식각, 금속 배선 등에 대하여 학습하였다.
-<img src="https://user-images.githubusercontent.com/113766590/190854703-d68b3885-c4b9-42d3-879a-c3685263a2b9.PNG" width="250" height="300"/>
 
 
-- 전력용 반도체 소자 및 TCAD Simulation의 기초 (22.08.11 ~ 22.08.12) / 교육기관 : IDEC(반도체설계교육센터)  >전력용 반도체의 종류, 구조 및 동작 원리에 대해 이해하고, 이를 개발하기 위해 TCAD Sentaurus를 활용하는 법에 대해 학습
-<img src="https://user-images.githubusercontent.com/113766590/190854634-7b8ebe4d-f161-4fd7-8200-efd9bfbce9f7.JPG" width="250" height="300"/>
+- 전력용 반도체 소자 및 TCAD Simulation의 기초 (22.08.11 ~ 22.08.12) / 교육기관 : IDEC(반도체설계교육센터)  
+>전력용 반도체의 종류, 구조 및 동작 원리에 대해 이해하고, 이를 개발하기 위해 TCAD Sentaurus를 활용하는 법에 대해 학습
 
+
+![수료증모음](https://user-images.githubusercontent.com/113766590/190894563-bcdeeea8-9d29-4483-82aa-4cd018f745b4.jpg)
 
 ### Blog POSTING
 학습한 내용 및 반도체/디스플레이 산업 동향 및 기업체 관련 뉴스 등을 포스팅하고 있습니다.
@@ -161,7 +169,8 @@ Track 장비에서 수행되는 PR 도포, 열처리, 현상 공정과 주요 �
 - 제품 크기 : 25(cm) X 25(cm)
 - 기간 : 2021.10 ~ 2021.12  
 <img src="https://user-images.githubusercontent.com/113766590/190854060-799d97a3-4791-415a-92eb-aa69e532f269.JPG" width="250" height="300"/>
-### Logistic Regression을 이용한 주가 예측 모델 설계
+
+### Logistic Regression을 이용한 주가 예측 모델 설계  
 - 소개 : Yahoo finance에서 2년 동안의 주식 csv 데이터를 정제한 후, Logistic Regression을 이용하여 다음날의 주식 등락을 예측하는 모델을 설계
 - 기능 : 약 57%의 Accuracy를 통해 주식 투자의 보조적 지표로 활용 가능 (세계적 헤지펀드의 경우 60%대)
 - 설계 목적 : 반도체/디스플레이 공정 분야 뿐만 아니라 커져가는 빅데이터 활용 능력 및 엔지니어로서의 Software 활용 능력을 함양
@@ -174,7 +183,7 @@ Track 장비에서 수행되는 PR 도포, 열처리, 현상 공정과 주요 �
 - 기능 : 스위치를 통한 원음 / 이퀄라이저 모드 구현, 마스터볼륨 조절 가능, 주파수 대역대별 강조 가능, LCD를 통한 볼륨 모니터링 가능, 2련가변저항을 통한 볼륨 및 노이즈 제거
 - 제품 크기 : 30(cm) X 40(cm)
 - 기간 : 2022.05 ~ 2021.06  
-<img src="https://user-images.githubusercontent.com/113766590/190854387-5808a376-44be-4cda-98da-17b04583f103.JPG" width="250" height="300"/>
+<img src="https://user-images.githubusercontent.com/113766590/190854387-5808a376-44be-4cda-98da-17b04583f103.JPG" width="470" height="300"/>
 
 
 ## 수상 경력
